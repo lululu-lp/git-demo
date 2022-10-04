@@ -12,3 +12,4 @@ hello Git!! ---merge
 hello Git!! ---master
 hello Git!! ---hot-fix
 ---github
+--- by lp
