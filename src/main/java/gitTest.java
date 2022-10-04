@@ -7,5 +7,6 @@ public class gitTest {
         System.out.println("idea git hello!!");
         System.out.println("idea git hello!!");
         System.out.println("hot fix branch!!");
+        System.out.println("hot fix git!!");
     }
 }
